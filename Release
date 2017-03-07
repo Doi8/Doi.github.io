@@ -1,0 +1,8 @@
+Origin: Doi Repo
+Label: Doi.sa.com
+Suite: stable
+Version: 1.0
+Codename: com.doi.sa.doirepo
+Architectures: iphoneos-arm
+Components: main
+Description: Best of the Best

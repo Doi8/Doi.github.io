@@ -1,0 +1,14 @@
+Package: com.doi.sa.doirepo.whatsappplus
+Version: 1.6r-56
+Architecture: iphoneos-arm
+Maintainer: Doi <doi@doi.sa.com>
+Depends: <bundleids>
+Filename: debs//com.doi.sa.doirepo.whatsappplus_1.6r-56
+Size: 1567680
+MD5sum: 184C0E092D10C1229FF7188C955B1AC0
+SHA1: 9E479ED37EE10EECE25EC55A774F7FFF683A171F
+SHA256: A309A9A2500793412500B5D423604F73C942C82DD807CCC0669669939801C795
+Section: Tweaks
+Description: WhatsApp++
+Author: Doi <Doi@doi.sa.com>
+Name: Doi.sa.com
